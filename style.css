@@ -3,14 +3,20 @@
     font-weight: 700;
   }
   
-  button#apple {
+  button#sticker {
+    background-color: #f4d35e;
+  }
+  button#keychain {
     background-color: #ba1a62;
   }
-  button#banana {
+  button#plush {
     background-color: #c8cd7d;
   }
-  button#mango {
+  button#comic {
     background-color: #e4633b;
+  }
+  button#mystery {
+    background-color: #3f88c5;
   }
   
   #shopping-cart {
